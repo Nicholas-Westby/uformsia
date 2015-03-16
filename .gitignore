@@ -1,2 +1,6 @@
+# Visual Studio build artifacts.
+bin/
+obj/
+
 # Visual Studio solution user options.
 *.suo

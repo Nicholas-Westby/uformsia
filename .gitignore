@@ -13,3 +13,10 @@ obj/
 
 # Visual Studio solution user options.
 *.suo
+
+# WebStorm.
+.idea
+
+# Temporary test folders.
+/source/
+/dest/

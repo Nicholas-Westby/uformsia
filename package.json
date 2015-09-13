@@ -1,13 +1,14 @@
 {
-	"name": "uformsia",
-	"version": "0.0.0",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Nicholas-Westby/uformsia.git"
-	},
-	"dependencies": {
-	},
-	"devDependencies": {
-		"grunt": "0.4.5"
-	}
+  "name": "uformsia",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nicholas-Westby/uformsia.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-copy": "0.8.0"
+  }
 }

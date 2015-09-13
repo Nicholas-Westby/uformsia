@@ -23,3 +23,12 @@ obj/
 # Temporary test folders.
 /source/
 /dest/
+
+# Sample website files/folders.
+/Website/App_Data/
+/Website/bin/
+/Website/Config/
+/Website/obj/
+/Website/Views/
+/Website/default.aspx
+/Website/Global.asax

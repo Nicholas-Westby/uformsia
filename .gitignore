@@ -25,10 +25,7 @@ obj/
 /dest/
 
 # Sample website files/folders.
-/Website/App_Data/
 /Website/bin/
-/Website/Config/
 /Website/obj/
-/Website/Views/
-/Website/default.aspx
-/Website/Global.asax
+/Website/umbraco/
+/Website/umbraco_client/

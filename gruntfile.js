@@ -6,11 +6,9 @@ module.exports = function(grunt) {
                 files: [
                     {
                         expand: true,
-                        //TODO: Configure this to copy files to an Umbraco install.
-                        src: ["*"],
-                        dest: 'dest/',
-                        filter: 'isFile',
-                        cwd: "source/"
+                        src: ["App_Plugins/**"],
+                        dest: 'Website/',
+                        cwd: "uformsia.app/"
                     }
                 ]
             }

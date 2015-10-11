@@ -209,6 +209,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\Form.cs" />
+    <Compile Include="Forms\FormField.cs" />
+    <Compile Include="Forms\FormFieldMetaInfo.cs" />
+    <Compile Include="Forms\FormMetaInfo.cs" />
+    <Compile Include="Forms\IFormField.cs" />
+    <Compile Include="Forms\IFormFieldMetaInfo.cs" />
+    <Compile Include="Forms\IFormMetaInfo.cs" />
+    <Compile Include="Persistence\IFormPersistence.cs" />
+    <Compile Include="Persistence\Internal\JsonFormPersistence.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
